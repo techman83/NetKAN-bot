@@ -1,12 +1,13 @@
 {
     "spec_version"   : 1,
-    "identifier"     : "DogeCoinFlag-invalid",
-    "name"           : "Dogecoin Flag Invalid",
-    "abstract"       : "Such flag. Very invalid. Wow.",
+    "identifier"     : "DogeCoinFlagStaged",
+    "name"           : "Dogecoin Flag Staged",
+    "abstract"       : "Such flag. Very Staged. Wow.",
     "description"    : "Adorn your craft with your favourite cryptocurrency. To the mün!",
     "$kref"          : "#/ckan/github/pjf/DogeCoinFlag",
     "$vref"          : "#/ckan/ksp-avc",
-    "ksp_version_max": "1.0.-1",
+    "ksp_version"    : "any",
+    "staging"        : 1,
     "license"        : "CC-BY",
     "author"         : "daviddwk",
     "install"        : [
